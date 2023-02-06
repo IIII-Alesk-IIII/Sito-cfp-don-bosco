@@ -2021,3 +2021,13 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+#area1 {
+  color: fuchsia;
+}
+#area2 {
+  color: red;
+}
+#area3 {
+  color: orange;
+}
